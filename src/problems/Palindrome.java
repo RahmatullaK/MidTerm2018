@@ -2,7 +2,8 @@ package problems;
 
 public class Palindrome {
     public static void main(String[] args) {
-        String s="Father";
+        String s="ABA";
+
         int i;
         int n=s.length();
         String str="";
